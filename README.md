@@ -5,7 +5,7 @@ Quando a leitura está abaixo do ideal é notificado via E-mail através de uma 
 
 ## Installation
   Bibliotecas utilizadas: 
-   PubSubClient.h  Encontra no gerenciador de bibliotecas do arduino: pubSubCLient by Nick O'leary
+   PubSubClient.h Gerenciador de bibliotecas do arduino: pubSubCLient by Nick O'leary
    ESP8266WiFi.h  http://arduino.esp8266.com/stable/package_esp8266com_index.json
    ArduinoJson.h  https://www.arduinolibraries.info/libraries/arduino-json   na V. 5.11.0         
    ESP8266AWSIoTMQTTWS.h  Consta no repositorio
