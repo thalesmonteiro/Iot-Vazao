@@ -10,5 +10,5 @@ Quando a leitura está abaixo do ideal é notificado via E-mail através de uma 
    ArduinoJson.h  https://www.arduinolibraries.info/libraries/arduino-json   na V. 5.11.0         
    ESP8266AWSIoTMQTTWS.h  Consta no repositorio
    WebSocketsClient.h  Consta no repositorio
-   iot Paho   https://projects.eclipse.org/projects/iot.paho/downloads
+   Iot Paho   https://projects.eclipse.org/projects/iot.paho/downloads
 
